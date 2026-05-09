@@ -3,3 +3,4 @@
 - [x] Projekt in neues GitHub Repository pushen
 - [x] `index.html` mit Daten von Adrian Thürig aktualisieren
 - [x] Farbschema an die Hauptfarben des Lebenslaufs (Dunkelgrau/Schwarz) anpassen
+- [x] Profilbild und Hintergrundbanner in `index.html` aktualisieren
