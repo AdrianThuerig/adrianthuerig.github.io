@@ -88,7 +88,7 @@ img {
 }
 
 *::-moz-selection {
-	background: #199cdb;
+	background: #212025;
 	color: #ffffff;
 }
 
@@ -227,7 +227,7 @@ ul.list li a:before {
 .title:before {
 	content: "";
 	position: absolute;
-	background: #199cdb;
+	background: #212025;
 	height: 2px;
 	left: 0;
 	top: -20px;
@@ -338,26 +338,26 @@ a, .t-active span, .desc, .item img, .contact-form .submit, .reply-form .submit,
 
 .but.opc {
 
-	background: #199cdb;
+	background: #212025;
 }
 
 
 .but.opc:hover {
 
 	background: #ffffff;
-	color: #199cdb;
+	color: #212025;
 }
 
 
 .but.brd {
 	background: none;
-	border: 2px solid #199cdb;
-	color: #199cdb;
+	border: 2px solid #212025;
+	color: #212025;
 }
 
 
 .but.brd:hover {
-	background: #199cdb;
+	background: #212025;
 	color: #ffffff;
 }
 
@@ -599,7 +599,7 @@ a, .t-active span, .desc, .item img, .contact-form .submit, .reply-form .submit,
 }
 
 .bg-blue {
-	background: #199cdb;
+	background: #212025;
 }
 
 .pd-0 {

@@ -62,7 +62,7 @@
 .sk-cube-grid .sk-cube {
   width: 30%;
   height: 30%;
-  background-color: #199cdb;
+  background-color: #212025;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
@@ -149,7 +149,7 @@ p.short-email{
 }
 
 p.short-email a{
-	color:#199cdb;
+	color:#212025;
 }
 
 
@@ -230,7 +230,7 @@ p.short-email a{
 }
 
 .menu li a i {
-    color: #199cdb;
+    color: #212025;
 	padding-left:10px;
 }
 
@@ -357,14 +357,14 @@ a.mobile-btn{
 }
 
 .socials li {
-    color: #199cdb;
+    color: #212025;
     display: inline;
 	margin-right:5px;
 }
 
 
 .socials li a {
-    color: #199cdb;
+    color: #212025;
 }
 
 
@@ -457,7 +457,7 @@ a.mobile-btn{
 
 
 .exp:after, .edu:after {
-    background: #199cdb;
+    background: #212025;
     border: 3px solid #ffffff;
     content: "";
     height: 14px;
@@ -477,7 +477,7 @@ a.mobile-btn{
 
 
 .exp .hgroup h6 span.current {
-    background: #199cdb;
+    background: #212025;
     border-radius: 6px;
 	-moz-border-radius:6px;
 	-webkit-border-radius :6px;
@@ -513,7 +513,7 @@ a.mobile-btn{
 
 
 .rating span {
-  	background: #199cdb;
+  	background: #212025;
     display: inline-block;
     height: 2px;
     margin-right: 10px;
@@ -534,8 +534,8 @@ a.mobile-btn{
 }
 
 .hb-list ul li span{
-  	border: 1px solid #199cdb;
-    color: #199cdb;
+  	border: 1px solid #212025;
+    color: #212025;
     display: block;
     font-size: 20px;
     height: 50px;
@@ -575,7 +575,7 @@ a.mobile-btn{
 
 
 .fact-list li:first-child{
-	background:#199cdb;
+	background:#212025;
 }
 
 
@@ -635,7 +635,7 @@ a.mobile-btn{
 
 
 .serv-ico span.ico {
-   	color: #199cdb;
+   	color: #212025;
     display: inline-block;
     font-size: 45px;
     line-height: 52px;
@@ -698,7 +698,7 @@ a.mobile-btn{
 
 
 .thumbs li a span {
-    background-color: rgba(25,156,219, 0.9);
+    background-color: rgba(33,32,37, 0.9);
     background-image: url(../img/quote.png);
     background-position: 50% center;
     background-repeat: no-repeat;
@@ -750,15 +750,15 @@ a.mobile-btn{
 
 
 .block-table .col-md-3:nth-child(3) .table{
-	background:#199cdb;
-	border:1px solid #199cdb;
+	background:#212025;
+	border:1px solid #212025;
 	color:#ffffff;
 	position:relative;
 }
 
 
 .block-table .col-md-3:nth-child(3) .table:before  {
-    border-bottom: 30px solid #199cdb;
+    border-bottom: 30px solid #212025;
     border-left: 50px solid rgba(0, 0, 0, 0);
     border-right: 50px solid rgba(0, 0, 0, 0);
     bottom: -1px;
@@ -795,7 +795,7 @@ a.mobile-btn{
 
 .block-table .col-md-3:nth-child(3) .but:hover{
 	background:#ffffff;
-	color:#199cdb;
+	color:#212025;
 }
 
 
@@ -807,12 +807,12 @@ a.mobile-btn{
 
 
 .block-price{
-	color:#199cdb;
+	color:#212025;
 }
 
 
 .block-price span.dollar{
- 	color: #199cdb;
+ 	color: #212025;
     font-size: 12px;
     position: relative;
     top: -35px;
@@ -888,7 +888,7 @@ a.mobile-btn{
 
 
 .filter li a.active {
-    background: #199cdb;
+    background: #212025;
 	color:#ffffff;
 	border: 2px solid #228cc2;
 }
@@ -1092,7 +1092,7 @@ a.mobile-btn{
 
 
 .post-meta li.date {
- 	background: #199cdb none repeat scroll 0 0;
+ 	background: #212025 none repeat scroll 0 0;
     border-radius: 20px;
 	-moz-border-radius:20px;
 	-webkit-border-radius :20px;
@@ -1113,7 +1113,7 @@ a.mobile-btn{
 
 
 .post-meta li a:hover {
-    color: #199cdb;
+    color: #212025;
 }
 
 
@@ -1125,7 +1125,7 @@ a.mobile-btn{
 
 .post a.more{
 	padding-left:20px;
-	color:#199cdb;
+	color:#212025;
 	display:inline-block;
 }
 
@@ -1207,7 +1207,7 @@ a.mobile-btn{
 
 
 .block-pagination ul li a.selected {
-    color: #199cdb;
+    color: #212025;
 }
 
 
@@ -1276,7 +1276,7 @@ a.mobile-btn{
 
 
 .comment-content .date a {
-    color: #199cdb;
+    color: #212025;
     display: inline-block;
     font-size: 11px;
     position: relative;
@@ -1305,7 +1305,7 @@ a.mobile-btn{
   color: #ffffff;
   font-size: 12px;
   text-transform: uppercase;
-  background: #199cdb;
+  background: #212025;
   border-radius: 6px;
  -moz-border-radius:6px;
  -webkit-border-radius :6px;
@@ -1519,7 +1519,7 @@ ul.latest-post a i {
 
 
 #success h2, #error h2 {
-    color: #199cdb;
+    color: #212025;
     font-size: 11px;
     left: 0;
     position: absolute;
@@ -1529,7 +1529,7 @@ ul.latest-post a i {
 
 
 .errorForm {
-    border: 1px solid #199cdb !important;
+    border: 1px solid #212025 !important;
 }
 
 
@@ -1541,7 +1541,7 @@ ul.latest-post a i {
 
 
 .info-ico span.ico {
-   	color: #199cdb;
+   	color: #212025;
     display: inline-block;
     font-size: 50px;
     line-height: 52px;
@@ -1651,7 +1651,7 @@ ul.latest-post a i {
 
 
 .socials.round li a:hover{
-	color:#199cdb;
+	color:#212025;
 }
 
 .footer hr, .block-share hr{
@@ -1689,7 +1689,7 @@ ul.latest-post a i {
 }
 
 #toTop i {
-    background:#199cdb;
+    background:#212025;
     color: #ffffff;
     font-size: 16px;
     padding: 3px 4px;
