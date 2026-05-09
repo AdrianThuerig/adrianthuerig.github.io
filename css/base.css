@@ -89,7 +89,7 @@ img {
 
 *::-moz-selection {
 	background: #212025;
-	color: #ffffff;
+	color: #faf8f5;
 }
 
 a:focus {
@@ -107,7 +107,7 @@ iframe {
 
 /* Basic Styles*/
 body {
-	background: #ffffff;
+	background: #faf8f5;
 	font: 14px/22px "open_sans", Arial, sans-serif;
 	color: #777777;
 	-webkit-font-smoothing: antialiased;
@@ -139,7 +139,7 @@ small {
 
 
 .white {
-	color: #ffffff;
+	color: #faf8f5;
 }
 
 
@@ -344,7 +344,7 @@ a, .t-active span, .desc, .item img, .contact-form .submit, .reply-form .submit,
 
 .but.opc:hover {
 
-	background: #ffffff;
+	background: #faf8f5;
 	color: #212025;
 }
 
@@ -358,7 +358,7 @@ a, .t-active span, .desc, .item img, .contact-form .submit, .reply-form .submit,
 
 .but.brd:hover {
 	background: #212025;
-	color: #ffffff;
+	color: #faf8f5;
 }
 
 
@@ -595,7 +595,7 @@ a, .t-active span, .desc, .item img, .contact-form .submit, .reply-form .submit,
 }
 
 .bg-white {
-	background: #ffffff;
+	background: #faf8f5;
 }
 
 .bg-blue {

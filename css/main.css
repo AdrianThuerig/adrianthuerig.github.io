@@ -27,7 +27,7 @@
 
 /*Preloader*/
 .loader {
-    background: #ffffff;
+    background: #faf8f5;
     bottom: 0;
     height: 100%;
     left: 0;
@@ -161,7 +161,7 @@ p.short-email a{
 .nav-container{
 	width:100%;
 	z-index:1000;
-	background: #ffffff;
+	background: #212025;
 	position:absolute ;
 	box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);
 	-moz-box-shadow:0 1px 5px 0 rgba(0, 0, 0, 0.1);
@@ -189,7 +189,7 @@ p.short-email a{
 
 .switched-header {
     position: fixed;
-	background:#ffffff;
+	background:#212025;
 	left:0;
 	top:0;
 	border-bottom:1px solid #eaeaea;
@@ -222,7 +222,7 @@ p.short-email a{
 }
 
 .menu li a {
-	color: #333333;
+	color: #faf8f5;
     display: block;
     left: 1px;
     padding: 22px 25px 20px;
@@ -241,7 +241,7 @@ p.short-email a{
 
 
 a.mobile-btn{
-	color:#33373d;
+	color:#faf8f5;
 	font-size:20px;
 	position:absolute;
 	right:0;
@@ -256,7 +256,7 @@ a.mobile-btn{
 
 
 .img-profile img{
- 	border: 10px solid #ffffff;
+ 	border: 10px solid #faf8f5;
     box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);
 	-moz-box-shadow:0 1px 5px 0 rgba(0, 0, 0, 0.1);
 	-webkit-box-shadow :0 1px 5px 0 rgba(0, 0, 0, 0.1);
@@ -281,13 +281,13 @@ a.mobile-btn{
 .name-profile h5 span{
  	display: block;
     font-size: 12px;
-	color:#999999;
+	color:#d0d0d0;
 	position: relative;
 	top: 2px;
 }
 
 .name-profile h5 a{
-	color:#333333;
+	color:#faf8f5;
 }
 
 
@@ -430,13 +430,13 @@ a.mobile-btn{
 
 .timeline:before {
 	background: #eaeaea; /* Old browsers */
-	background: -moz-linear-gradient(top,  #eaeaea 1%, #eaeaea 75%, #ffffff 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#eaeaea), color-stop(75%,#eaeaea), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #eaeaea 1%,#eaeaea 75%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #eaeaea 1%,#eaeaea 75%,#ffffff 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #eaeaea 1%,#eaeaea 75%,#ffffff 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #eaeaea 1%,#eaeaea 75%,#ffffff 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeaea', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	background: -moz-linear-gradient(top,  #eaeaea 1%, #eaeaea 75%, #faf8f5 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#eaeaea), color-stop(75%,#eaeaea), color-stop(100%,#faf8f5)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #eaeaea 1%,#eaeaea 75%,#faf8f5 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #eaeaea 1%,#eaeaea 75%,#faf8f5 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #eaeaea 1%,#eaeaea 75%,#faf8f5 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #eaeaea 1%,#eaeaea 75%,#faf8f5 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeaea', endColorstr='#faf8f5',GradientType=0 ); /* IE6-9 */
     bottom: 0;
     content: "";
     left: 1px;
@@ -458,7 +458,7 @@ a.mobile-btn{
 
 .exp:after, .edu:after {
     background: #212025;
-    border: 3px solid #ffffff;
+    border: 3px solid #faf8f5;
     content: "";
     height: 14px;
     left: -5px;
@@ -483,7 +483,7 @@ a.mobile-btn{
 	-webkit-border-radius :6px;
 	-ms-border-radius:6px;
 	-o-border-radius: 6px;
-    color: #ffffff;
+    color: #faf8f5;
     padding: 1px 12px;
 
 }
@@ -569,7 +569,7 @@ a.mobile-btn{
 .fact-list li{
 	display:inline-block;
 	padding:60px 0;
-	color:#ffffff;
+	color:#faf8f5;
 	position:relative;
 }
 
@@ -606,7 +606,7 @@ a.mobile-btn{
 .fact-list li .desc-fact{
 	font-size:20px;
 	line-height:32px;
-	color:#ffffff;
+	color:#faf8f5;
 }
 
 
@@ -617,7 +617,7 @@ a.mobile-btn{
 }
 
 .fact-list li span.ico-fact{
-  	color: #ffffff;
+  	color: #faf8f5;
     display: inline-block;
     font-size: 45px;
     line-height: 52px;
@@ -725,12 +725,12 @@ a.mobile-btn{
 .testi-details .td blockquote {
     font-size: 17px;
     line-height: 30px;
-	color:#ffffff;
+	color:#faf8f5;
 }
 
 
 .testi-details .td h6 {
-    color: #ffffff;
+    color: #faf8f5;
 	text-transform:uppercase;
 }
 
@@ -740,7 +740,7 @@ a.mobile-btn{
     position: relative;
 	display:block;
 	text-transform:none;
-	color:#ffffff;
+	color:#faf8f5;
 }
 
 
@@ -752,7 +752,7 @@ a.mobile-btn{
 .block-table .col-md-3:nth-child(3) .table{
 	background:#212025;
 	border:1px solid #212025;
-	color:#ffffff;
+	color:#faf8f5;
 	position:relative;
 }
 
@@ -778,23 +778,23 @@ a.mobile-btn{
 
 
 .block-table .col-md-3:nth-child(3) .block-price{
-	color:#ffffff;
+	color:#faf8f5;
 }
 
 
 .block-table .col-md-3:nth-child(3) .table h6, .block-table .col-md-3:nth-child(3) .block-price span.dollar{
-	color:#ffffff;
+	color:#faf8f5;
 }
 
 
 .block-table .col-md-3:nth-child(3) .but{
-	color:#ffffff;
-	border-color:#ffffff;
+	color:#faf8f5;
+	border-color:#faf8f5;
 }
 
 
 .block-table .col-md-3:nth-child(3) .but:hover{
-	background:#ffffff;
+	background:#faf8f5;
 	color:#212025;
 }
 
@@ -889,7 +889,7 @@ a.mobile-btn{
 
 .filter li a.active {
     background: #212025;
-	color:#ffffff;
+	color:#faf8f5;
 	border: 2px solid #228cc2;
 }
 
@@ -942,7 +942,7 @@ a.mobile-btn{
 
 
 .disable:before {
-    background-color: #ffffff;
+    background-color: #faf8f5;
     content: "";
     display: block;
     height: 100%;
@@ -973,7 +973,7 @@ a.mobile-btn{
 
 .item a .desc h5 {
     bottom: 0;
-    color: #ffffff;
+    color: #faf8f5;
     font-size: 13px;
     height: 5px;
     left: 0;
@@ -992,7 +992,7 @@ a.mobile-btn{
     position: absolute;
     right: 0;
     top: 0;
-    color: #ffffff;
+    color: #faf8f5;
     height: 50px;
     margin: auto;
     bottom: 0;
@@ -1098,7 +1098,7 @@ a.mobile-btn{
 	-webkit-border-radius :20px;
 	-ms-border-radius:20px;
 	-o-border-radius: 20px;
-    color: #ffffff;
+    color: #faf8f5;
     font-size: 10px;
     padding: 2px 15px;
     text-transform: uppercase;
@@ -1190,7 +1190,7 @@ a.mobile-btn{
 
 
 .block-pagination ul li a {
-    background: #ffffff;
+    background: #faf8f5;
     border: 1px solid #eaeaea;
     color: #cccccc;
     float: left;
@@ -1302,7 +1302,7 @@ a.mobile-btn{
 
 
 .comments .reply-btn a {
-  color: #ffffff;
+  color: #faf8f5;
   font-size: 12px;
   text-transform: uppercase;
   background: #212025;
@@ -1345,7 +1345,7 @@ a.mobile-btn{
 }
 
 .search-form input[type="text"] {
-    background: #ffffff;
+    background: #faf8f5;
     border: 1px solid #eaeaea;
     padding: 10px 15px;
     width: 100%;
@@ -1455,7 +1455,7 @@ ul.latest-post a i {
 .contact-form input[type="text"], .contact-form textarea, .reply-form input[type="text"], .reply-form textarea {
     background: rgba(255, 255, 255, .10);
     border: 1px solid rgba(255, 255, 255, 0);
-    color: #ffffff;
+    color: #faf8f5;
     font-size: 12px;
     margin: 0 0 14px;
     outline: 0 none;
@@ -1468,14 +1468,14 @@ ul.latest-post a i {
 
 
 .reply-form input[type="text"], .reply-form textarea {
-    background: #ffffff;
+    background: #faf8f5;
     border: 1px solid #eaeaea;
     color: #777777;
 }
 
 
 .contact-form textarea, .reply-form textarea {
-    color: #ffffff;
+    color: #faf8f5;
     width: 100%;
 	font-family:"open_sansregular",Arial,sans-serif;
 	height:150px;
@@ -1690,7 +1690,7 @@ ul.latest-post a i {
 
 #toTop i {
     background:#212025;
-    color: #ffffff;
+    color: #faf8f5;
     font-size: 16px;
     padding: 3px 4px;
     z-index: 10000;

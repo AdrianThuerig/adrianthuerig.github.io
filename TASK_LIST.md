@@ -4,3 +4,4 @@
 - [x] `index.html` mit Daten von Adrian Thürig aktualisieren
 - [x] Farbschema an die Hauptfarben des Lebenslaufs (Dunkelgrau/Schwarz) anpassen
 - [x] Profilbild und Hintergrundbanner in `index.html` aktualisieren
+- [x] Menübanner schwarz einfärben, Menüschrift weiß und global warmes Weiß setzen
