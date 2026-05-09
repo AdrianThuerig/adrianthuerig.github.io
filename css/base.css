@@ -191,7 +191,7 @@ ul.list li a:before {
 .block-background-image {
 	backface-visibility: hidden;
 	background-attachment: fixed;
-	background-position: center center;
+	background-position: bottom center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	box-sizing: border-box;

@@ -1730,7 +1730,7 @@ ul.latest-post a i {
 	
 	
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
-	.block-background-image{background-attachment: scroll;background-position:top center !important;}
+	.block-background-image{background-attachment: scroll;background-position:bottom center !important;}
 	.img-profile img{left:-15px}
 	.menu li a{padding:22px 15px 20px;}
 	.name-profile h5{font-size:26px;}
@@ -1755,14 +1755,14 @@ ul.latest-post a i {
 @media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) and (orientation: landscape) {
 	
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
-	.block-background-image{background-attachment: scroll;background-position:top center !important;}
+	.block-background-image{background-attachment: scroll;background-position:bottom center !important;}
 	
 }
 
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
-	.block-background-image{background-attachment: scroll;background-position:top center !important;}
+	.block-background-image{background-attachment: scroll;background-position:bottom center !important;}
 	.img-profile img{left:-15px}
 	.menu li a{padding:22px 15px 20px;}
 	.name-profile h5{font-size:26px;}
@@ -1788,7 +1788,7 @@ ul.latest-post a i {
 @media only screen and (min-width: 768px) and (max-width: 959px){
 	
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
-	.block-background-image{background-attachment: scroll;background-position:top center !important;}
+	.block-background-image{background-attachment: scroll;background-position:bottom center !important;}
 	p.short-email{top:0;}
 	.img-profile img, .menu li a i{display:none;}
 	.container .col-sm-2.pd-0{width:100%;}
@@ -1832,7 +1832,7 @@ ul.latest-post a i {
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
-	.block-background-image{background-attachment: scroll;background-position:top center !important;}
+	.block-background-image{background-attachment: scroll;background-position:bottom center !important;}
 	body{font-size: 13px;}
 	.block-teaser h1{font-size:40px;}
 	.block-teaser h3{font-size: 14px;}
@@ -1897,7 +1897,7 @@ ul.latest-post a i {
 
 @media only screen and (max-width:479px) {
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
-	.block-background-image{background-attachment: scroll;background-position:top center !important;}
+	.block-background-image{background-attachment: scroll;background-position:bottom center !important;}
 	.block-teaser h1{font-size:40px;}
 	h2.title{font-size:28px;}
 	.img-profile img, .menu li a i{display:none;}
