@@ -6,3 +6,4 @@
 - [x] Profilbild und Hintergrundbanner in `index.html` aktualisieren
 - [x] Menübanner schwarz einfärben, Menüschrift weiß und global warmes Weiß setzen
 - [x] Bildausschnitt des Hintergrundbanners auf den unteren Teil verschieben
+- [x] Verwende Banner2.png als neues Hintergrundbild
